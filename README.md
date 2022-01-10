@@ -1,3 +1,6 @@
+# Desktop View :  🔥🔥 Please checkout the live version 🔥🔥
+![Screenshot 2022-01-03 at 01-20-14 CryptoWatch Track your crptos in real time](https://user-images.githubusercontent.com/94052679/148723268-1ac37ef8-6e1e-4ca5-8d76-11f3f8a7a7ff.png)
+
 # reactJS-CryptoWatchAPI
 A simple API fetch for cryptocurrency price tracker app in ReactJS using Axios package. It mainlt uses React Hooks such as useState and useEffect. You can also search currencies and have it display on the browser. I used a free public API link https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&amp;order=market_cap_desc&amp;per_page=10&amp;page=1&amp;sparkline=false >> keep the size of results &amp;per_page between 1-250. For some reasons it doesn't load higher than 25 cryptos for me.
 
